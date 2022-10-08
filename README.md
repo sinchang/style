@@ -1,4 +1,3 @@
-## This project is no longer maintained and it is recommended to use [Geist UI](https://github.com/geist-org/geist-ui)
 
 ## Geist Style
 <p align="left">
@@ -17,7 +16,7 @@ Geist style is a modern CSS library.
 
 ## Documentation
 
-[more details](https://style.geist-ui.dev/)
+[more details](https://style-psi.vercel.app/)
 
 
 ## LICENSE
